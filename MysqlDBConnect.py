@@ -1,6 +1,7 @@
 import MySQLdb
 
 def Singleton(class_):
+    """docstring for Singleton"""
     instance = {}
     def Wraper():
         if class_ not in instance:
@@ -12,12 +13,18 @@ def Singleton(class_):
 class MySqlDBConnect(object):
     """docstring for MySqlDBConnect"""
     def __init__(self):
-        pass
+        self.CurTable = None
+        self.db = None
+
     def ConnectToDB(self, User, Pass, CurDB):
-        self.db = MySQLdb.connect(host = 'localhost',
+        try:
+            self.db = MySQLdb.connect(host = 'localhost',
                                   user = User,
                                   passwd = Pass,
                                   db = CurDB)
+
+        except Exception:
+            db.close()
 
     def ExecuteQuery(self, query):
         cursor = self.db.cursor()
@@ -26,7 +33,12 @@ class MySqlDBConnect(object):
 
     def DescribeTable(self, TableName):
         cursor = self.ExecuteQuery('describe %s'%TableName)
-        self.Show(cursor)
+        tbNameFields = list()
+        for field in cursor.fetchall():
+            tbNameFields.append(field[0])
+        print tbNameFields
+        """self.Show(cursor)"""
+        return tbNameFields
 
     def CheckTable(self):
         self.ExecuteQuery('show tables')
