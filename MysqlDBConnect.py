@@ -70,6 +70,4 @@ class MySqlDBConnect(object):
 if __name__ == "__main__":
     connectdb = MySqlDBConnect()
     connectdb.ConnectToDB('root', '123456', 'Test')
-    #connectdb.UpdateTable('Employess', '2', 'Kuzlo', '23', '25000')
-    #connectdb.DeleteTable('Employess', '2')
     connectdb.DescribeTable('Employess')
