@@ -15,7 +15,6 @@ def DecFacade(cls):
 tests = []
 def DecFacade(cls):
     tests.append(cls())
-    print(len(tests))
     class Wraper():
 #     tests.append(cls())
         def run(self):
