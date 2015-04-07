@@ -36,13 +36,11 @@ class MySqlDBConnect(object):
         tbNameFields = list()
         for field in cursor.fetchall():
             tbNameFields.append(field[0])
-        print tbNameFields
-        """self.Show(cursor)"""
         return tbNameFields
 
     def CheckTable(self):
         self.ExecuteQuery('show tables')
-        return input('Chose table: ')
+        return raw_input('Chose table: ')
 
     def SelectTable(self, TableName):
         cursor = self.ExecuteQuery('select * from %s;' % TableName)
