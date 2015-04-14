@@ -1,0 +1,14 @@
+{%extends 'base.html'%}
+{%block form%}
+<form action="/mongo" method='post'>
+	first name: <input type = "text" name='usernm'>
+	second name: <input type = "text" name='usersnm'>
+	role:<br>
+	<input type="checkbox" name='opt1'>teacher<br>
+	<input type="checkbox" name='opt2'>manager<br>
+	<input type="checkbox" name='opt3'>admin<br>
+	login: <input type = "text" name='login'>
+	email: <input type = "text" name='email'>
+	<input type = "submit" name='send' value = 'Adding'>
+</form>
+{%endblock%}

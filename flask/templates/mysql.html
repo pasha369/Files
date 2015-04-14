@@ -1,0 +1,16 @@
+{%extends 'base.html'%}
+{%block form%}
+<form action="/mysql" method='post'>
+	first name: <input type = "text" name='usernm'>
+	second name: <input type = "text" name='usersnm'>
+	role:<br>
+	<select name="role">
+		<option>teacher</option>
+		<option>manager</option>
+		<option>admin</option>
+	</select><br>
+	login: <input type = "text" name='login'>
+	email: <input type = "text" name='email'>
+	<input type = "submit" name='send' value = 'Adding'>
+</form>
+{%endblock%}
