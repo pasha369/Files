@@ -18,7 +18,9 @@ def Page():
 @app.route("/mongo")
 def MongoPage():
     """load mongo.html"""
-    return render_template('mongo.html')
+    conn.Connect('test')
+    users = conn.GetAllDocument('users')
+    return render_template('mongo.html', users = users)
 
 @app.route("/mongo", methods = ['POST'])
 def AddInDB():
@@ -27,7 +29,7 @@ def AddInDB():
     conn.InsertNewDoc('users',
                      fname = request.form['usernm'],
                      sname = request.form['usersnm'],
-                     role =  request.form['role'],
+                     #role =  request.form['role'],
                      login = request.form['login'],
                      email = request.form['email']
                       )
@@ -37,7 +39,16 @@ def AddInDB():
 @app.route("/mysql")
 def MysqlPage():
     """load mysql.html"""
-    return render_template('mysql.html')
+    users = (db.session.query(User)
+        .join(Role)
+        .values(User.first_name, 
+            User.last_name,
+            Role.role_name,
+            User.login,
+            User.email))
+    
+
+    return render_template('mysql.html', users=users)
 
 @app.route("/mysql", methods = ['POST'])
 def AddToMysql():

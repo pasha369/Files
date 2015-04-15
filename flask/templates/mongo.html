@@ -11,4 +11,16 @@
 	email: <input type = "text" name='email'>
 	<input type = "submit" name='send' value = 'Adding'>
 </form>
+
+	<table>
+	{%for user in users%}
+		<tr>
+			<td>{{user.fname}}</td>
+			<td>{{user.sname}}</td>
+			<td>{{user.role}}</td>
+			<td>{{user.login}}</td>
+			<td>{{user.email}}</td>
+		</tr>
+	{%endfor%}
+	</table>
 {%endblock%}
