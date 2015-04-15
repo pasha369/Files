@@ -35,7 +35,9 @@ def AddInDB():
                      email = request.form['email']
                       )
     print request.form['usernm']
-    return render_template('mongo.html')
+    client = app.test_client()
+    response = client.get('/mongo', headers=list(request.headers))
+    return response
 
 @app.route("/mysql", methods = ['GET'])
 def MysqlPage():
@@ -62,7 +64,9 @@ def AddToMysql():
     db.session.add(new_user) 
     db.session.commit() 
     db.session.close()
-    return render_template('mysql.html')
+    client = app.test_client()
+    response = client.get('/mysql', headers=list(request.headers))
+    return response
 
 if __name__ == "__main__":
    app.debug = True
