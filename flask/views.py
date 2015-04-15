@@ -1,7 +1,5 @@
-from flask import Flask, render_template, request
-
+from flask import Flask
 from mongo_ORM import MongodbORM
-
 from flask.ext.sqlalchemy import SQLAlchemy
 from models import User, Role
 
@@ -15,7 +13,7 @@ def Page():
     """load base.html"""
     return render_template('index.html')
 
-@app.route("/mongo", methods = ['GET'])
+@app.route("/mongo")
 def MongoPage():
     """load mongo.html"""
     conn.Connect('test')
@@ -35,9 +33,9 @@ def AddInDB():
                      email = request.form['email']
                       )
     print request.form['usernm']
-    return render_template('mongo.html')
+    return 'new user added to mongo'
 
-@app.route("/mysql", methods = ['GET'])
+@app.route("/mysql")
 def MysqlPage():
     """load mysql.html"""
     users = (db.session.query(User)
@@ -60,10 +58,6 @@ def AddToMysql():
                      login = request.form['login'],
                      email = request.form['email'])
     db.session.add(new_user) 
-    db.session.commit() 
+    db.session.commit() #Write changes into db 
     db.session.close()
-    return render_template('mysql.html')
-
-if __name__ == "__main__":
-   app.debug = True
-   app.run()
+    return 'new user added to mysql'

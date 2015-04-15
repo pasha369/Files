@@ -13,57 +13,45 @@ def Singleton(class_):
 class MongodbORM(object):
     """ORM for work with pymongo"""
     def __init__(self):
-        self.CurDB = None
+        self.db = None
         self.CurDoc = None
-        print 'Hello'
 
-    def Connect(self, name):
+    def Connect(self, name, host='localhost', port=27017):
         """Connect to db"""
-        self.CurDB = name
-        db = MongoClient('mongodb://localhost:27017')
-        return db[self.CurDB]
+        self.db = name
+        self.client = MongoClient(host, port)
+        return self.client[self.db]
 
     def GetAllDocument(self, name):
         """Select all document from db"""
-        collection = self.Connect(self.CurDB)[name].find()
+        collection = self.Connect(self.db)[name].find()
         return collection
 
     def GetDocByPattern(self, name, **pattern):
         """Select doc by pattern"""
-        collection = self.Connect(self.CurDB)[name].find({pattern})
+        collection = self.Connect(self.db)[name].find({pattern})
         return collection
 
     def RemoveDoc(self, name):
         """Remove document from db"""
-        self.Connect(self.CurDB)[name].remove()
+        self.Connect(self.db)[name].remove()
 
     def InsertNewDoc(self, name, **kwargs):
         """Insert new document into db"""
-        self.Connect(self.CurDB)[name].save(kwargs)
+        self.Connect(self.db)[name].save(kwargs)
 
     def UpdateDoc(self, name, spec, **kwargs):
         """Update document"""
-        self.Connect(self.CurDB)[name].update(spec, kwargs)
+        self.Connect(self.db)[name].update(spec, kwargs)
 
-    def ExistByNone(self, name, property):
-        """If property exist => none"""
-        collection =  self.GetAllDocument(name)
-        for doc in collection:
-            print doc
-            """self.Connect(self.CurDB)[name].update(
-                {},
-                {"$set":
-                    doc if property in collection else {property:'none1'}
-                },
-                upsert=True
-            )"""
+    def __del__(self):
+        self.client.close()
 
 
 if __name__ == "__main__":
-    t = Test()
-    conn = mdbORM()
+    conn = MongodbORM()
     conn.Connect('test')
     #conn.InsertNewDoc('books',nam='new book', age=18)
-    conn.UpdateDoc('books', {'nam':'new book'}, nme='fantasy', age=20)
-    conn.ExistByNone('books', 'name')
-    print [i for i in conn.Connect('test')['books'].find()]
+    conn.GetAllDocument('users')
+    
+    print [i for i in conn.GetAllDocument('users')] 

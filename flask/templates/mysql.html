@@ -14,6 +14,15 @@
 	<input type = "submit" name='send' value = 'Adding'>
 </form>
 	<table>
+		<thead>
+			<tr>
+				<th>first name</th>
+				<th>last name</th>
+				<th>role</th>
+				<th>login</th>
+				<th>email</th>
+			</tr>
+		</thead>
 	{%for user in users%}
 		<tr>
 			<td>{{user.first_name}}</td>
