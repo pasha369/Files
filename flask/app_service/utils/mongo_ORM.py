@@ -47,11 +47,9 @@ class MongodbORM(object):
     def __del__(self):
         self.client.close()
 
-
 if __name__ == "__main__":
     conn = MongodbORM()
     conn.Connect('test')
     #conn.InsertNewDoc('books',nam='new book', age=18)
     conn.GetAllDocument('users')
-    
-    print [i for i in conn.GetAllDocument('users')] 
+    print [i for i in conn.GetAllDocument('users')]
