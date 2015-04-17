@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 from app_service import app, conn
 from app_service.controllers.controller import UserCreator
-
+from app_service.forms.form import CreateUserForm
 
 @app.route("/")
 def main_page():
@@ -20,7 +20,11 @@ def page_to_mysql_get():
 @app.route("/mysql", methods=['POST'])
 def page_to_mysql_post():
     """Add new User into mysql table users"""
+    form = CreateUserForm(request.form)
     user_creator = UserCreator()
+    print '-'*100
+    print form.validate()
+    print '-'*100
     user_creator.add_user(request.form['usernm'],
                           request.form['usersnm'],
                           request.form['role'],
