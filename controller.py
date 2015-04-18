@@ -5,7 +5,7 @@ import re
 
 class UserController(object):
 
-    """Controller for adding new user into db"""
+    """Controller for add new user into db"""
 
     def __init__(self, table):
         """Init new connection to db"""
