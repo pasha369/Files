@@ -1,0 +1,39 @@
+{%extends 'base.html'%}
+{%block form%}
+<form action="/mongo" method='post'>
+	first name: <input type = "text" name='usernm'>
+	second name: <input type = "text" name='usersnm'>
+	role:<br>
+	<input type="checkbox" name='roles' value="teacher"/>teacher<br>
+	<input type="checkbox" name='roles' value="manager"/>manager<br>
+	<input type="checkbox" name='roles' value="admin"/>admin<br>
+	login: <input type = "text" name='login'>
+	email: <input type = "text" name='email'>
+	<input type = "submit" name='send' value = 'Adding'>
+</form>
+
+	<table>
+		<thead>
+			<tr>
+				<th>first name</th>
+				<th>last name</th>
+				<th>role</th>
+				<th>login</th>
+				<th>email</th>
+			</tr>
+		</thead>
+	{%for user in users%}
+		<tr>
+			<td>{{user.fname}}</td>
+			<td>{{user.sname}}</td>
+			<td>
+				{%for one in user.role%}
+				{{one}}
+				{%endfor%}
+			</td>
+			<td>{{user.login}}</td>
+			<td>{{user.email}}</td>
+		</tr>
+	{%endfor%}
+	</table>
+{%endblock%}
