@@ -42,7 +42,7 @@ class UserController(object):
             return True
 
     def get_message(self):
-        """return error message else if exist"""
+        """return error message"""
         return self.message;
 
     def register(self, f_name, l_name, password, role, login, email):
