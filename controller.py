@@ -16,8 +16,7 @@ class UserController(object):
         #colums for table
         self.colums = ['name text', 'surname text', 'password text', 'login text', 'email text']
         #create table
-        """self.db.mysql_do('drop %s if exists Temp'%table)"""
-        self.db.mysql_do('create table %s (%s)'%(table,','.join(self.colums)))  
+        self.db.mysql_do('create table if not exists %s (%s)'%(table,','.join(self.colums)))  
 
     def validate(self, f_name, l_name, password, role, login, email):
         """correct = true else false"""
