@@ -48,9 +48,6 @@ class UserController(object):
 
     def register(self, f_name, l_name, password, role, login, email):
         """Register new user"""
-        print self.__dict__.keys()
-        print self.__dict__.values()
-
         if self.validate(f_name, l_name, password, role, login, email):
             self.current_user = (f_name, l_name, password, role, login, email)
             return True
@@ -72,12 +69,7 @@ class UserController(object):
 
     def load(self):
         """Load all user from users"""
-        self.users = self.db.mysql_do("""
-            select name, surname, role, password, login, email 
-            from users
-            LEFT JOIN roles
-            ON users.role_id == roles.id
-            """)
+        self.users = self.db.get()
         return self.users
 
     def __del__(self):
@@ -93,7 +85,7 @@ def main():
     print us_control.register('f_name', 'l_name', 'password', 'role', 'login', 'email@ukr.net')
     print us_control.get_message()
     #save
-    #us_control.save()
+    us_control.save()
 
 if __name__ == '__main__':
     main()
