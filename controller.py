@@ -13,7 +13,7 @@ class AdminController(object):
 
     def validate_on_submite(self, **kwargs):
         """correct = true else false"""
-        self.message = ''
+        self.message = dict()
         # regex pattern
         email_pattern = """^[-0-9a-zA-Z.+_]+@[-0-9a-zA-Z.+_]+\.[a-zA-Z]{2,4}$"""
         # check data
