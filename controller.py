@@ -5,11 +5,11 @@ from app.models import AdminModel
 
 class AdminController(object):
 
-	"""docstring for AdminController"""
+    """docstring for AdminController"""
 
-	def __init__(self, **data):
-		self.data = data
-		self.model = AdminModel()
+    def __init__(self, **data):
+        self.data = data
+        self.model = AdminModel()
         self.view = View()
 
     def validate_on_submite(self, **kwargs):
