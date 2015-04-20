@@ -1,11 +1,13 @@
 #!/usr/bin/env python
-
 from MySQLORM import MySQLORM
+from app.models.roles import RolesModel
+from app.models.schools import SchoolsModel
+from app.models.teachers import TeachersModel
 import re
 
 class UserController(object):
 
-    """Controller for add new user into db"""
+    """Controller for add new teacher into db"""
 
     def __init__(self, table):
         """Init new connection to db"""
@@ -13,26 +15,23 @@ class UserController(object):
         self.db = MySQLORM()
         self.db.connect('localhost', 'root', '123456', 'Temp')
         self.table = table
-        #colums for table
-        self.colums = ['name text', 'surname text', 'password text', 'login text', 'email text']
-        #create table
-        self.db.mysql_do('create table if not exists %s (%s)'%(table,','.join(self.colums)))  
 
     def validate(self, f_name, l_name, password, role, login, email):
         """correct = true else false"""
         self.message = ''
         #regex pattern
         email_pattern = """^[-0-9a-zA-Z.+_]+@[-0-9a-zA-Z.+_]+\.[a-zA-Z]{2,4}$"""
+        #check data
         if not f_name:
-            self.message += '\nInvalid name address'
+            self.message += '\nInvalid name'
         if not l_name:
-            self.message += '\nInvalid name address'
+            self.message += '\nInvalid name'
         if not role:
-            self.message += '\nInvalid role address'
+            self.message += '\nInvalid role'
         if not password:
-            self.message += '\nInvalid password address'
+            self.message += '\nInvalid password'
         if not login:
-            self.message += '\nInvalid login address'
+            self.message += '\nInvalid login'
         if not re.match(email_pattern, email):
             self.message += '\nInvalid email address'
         #If validate return true
@@ -48,27 +47,30 @@ class UserController(object):
     def register(self, f_name, l_name, password, role, login, email):
         """Register new user"""
         if self.validate(f_name, l_name, password, role, login, email):
-            self.current_user = (f_name, l_name, password, role, login, email)
+            self.current_user = Teachers(f_name, l_name, password, role, login, email)
             return True
         else: 
             return False
 
     def change_role(self, role, *users):
         """Change role few users"""
-        change = 'role = %s'%role
+        change = 'role_id = %s'%role
         for user in users:
-            condition = 'first_name = __, last_name = __'
+            condition = 'name = __'
             self.db.update('users', change, condition)
 
     def save(self):
         """Save current_user into users"""
         self.db.insert(self.table,
-            ('name', 'surname', 'password', 'login', 'email',),
-            ('f_name', 'l_name', 'password', 'login', 'l@ukrnet',))
+            (self.current_user.__dict__.keys(),),
+            (self.current_user.__dict__.values(),))
 
     def load(self):
         """Load all user from users"""
-        self.users = self.db.get()
+        self.users = self.db.get("""users_test left join roles
+            on users_test.role_id = roles.id
+            """,
+            ('name', 'role_name', 'login', 'email', 'password'))
         return self.users
 
     def __del__(self):
