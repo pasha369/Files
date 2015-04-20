@@ -36,26 +36,32 @@ class AdminController(object):
             return True
     
     def get_index():
+        """return index.html"""
         return self.view.render_index()
 
     def get_error404():
+        """error 404"""
         return self.view.render_error()
 
     def get_view_add_get(self):
-        """view => add.html get"""
+        """view => user_add.html get"""
         return self.view.add()
     
     def get_view_add_post(self, **kwargs):
         """view => user_add.html post"""
         self.data = kwargs
-        if submit_on_validate(self.data):
+        if validate_on_submite(self.data):
+            #save data to db
             self.model.set(self.data)
+            #return operation succes
             return self.view.add_user_ok()
         else:
             return self.view.add_user_err(self.message)
 
     def get_view_all():
         """view => user_add.html get"""
+        #get data from db
         self.data = self.model.get_all()
+        #render page with all users
         return self.view.render_list_users(self.data)
 
