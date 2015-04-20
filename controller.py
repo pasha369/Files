@@ -7,8 +7,7 @@ class AdminController(object):
 
     """docstring for AdminController"""
 
-    def __init__(self, **data):
-        self.data = data
+    def __init__(self):
         self.model = AdminModel()
         self.view = View()
 
@@ -18,20 +17,18 @@ class AdminController(object):
         # regex pattern
         email_pattern = """^[-0-9a-zA-Z.+_]+@[-0-9a-zA-Z.+_]+\.[a-zA-Z]{2,4}$"""
         # check data
-        if not kwargs.get('fname'):
-            self.message += '\nInvalid name'
-        if not kwargs.get('lname'):
-            self.message += '\nInvalid name'
+        if not kwargs.get('name'):
+            self.message['name'] = 'Invalid name'
         if not kwargs.get('role'):
-            self.message += '\nInvalid role'
+            self.message['role'] = 'Invalid role'
         if not kwargs.get('password'):
-            self.message += '\nInvalid password'
+            self.message['password'] = 'Invalid password'
         if not kwargs.get('login'):
-            self.message += '\nInvalid login'
+            self.message['login'] = 'Invalid login'
         if not kwargs.get('school'):
-            self.message += '\nInvalid school'
-        if not re.match(email_pattern, email):
-            self.message += '\nInvalid email address'
+            self.message['school'] = 'Invalid school'
+        if not re.match(email_pattern, kwargs.get('email')):
+            self.message['email'] += 'Invalid email address'
         # If validate return true
         if self.message: 
             return False
@@ -39,7 +36,10 @@ class AdminController(object):
             return True
     
     def get_index():
-        return self.view.get_index()
+        return self.view.render_index()
+
+    def get_error404():
+        return self.view.render_error()
 
     def get_view_add_get(self):
         """view => add.html get"""
@@ -48,14 +48,14 @@ class AdminController(object):
     def get_view_add_post(self, **kwargs):
         """view => user_add.html post"""
         self.data = kwargs
-        if submit_on_validate(data):
-            self.model.set(data)
-            return self.view.ok()
+        if submit_on_validate(self.data):
+            self.model.set(self.data)
+            return self.view.add_user_ok()
         else:
-            return self.view.error()
+            return self.view.add_user_err(self.message)
 
     def get_view_all():
         """view => user_add.html get"""
         self.data = self.model.get_all()
-        return self.view.get_all()
+        return self.view.render_list_users(self.data)
 
