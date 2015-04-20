@@ -39,23 +39,23 @@ class AdminController(object):
             return True
     
     def get_index():
-    	return self.view.get_index()
+        return self.view.get_index()
 
-	def get_view_add_get(self):
-		"""view => add.html get"""
-		return self.view.add()
+    def get_view_add_get(self):
+        """view => add.html get"""
+        return self.view.add()
+    
+    def get_view_add_post(self, **kwargs):
+        """view => user_add.html post"""
+        self.data = kwargs
+        if submit_on_validate(data):
+            self.model.set(data)
+            return self.view.ok()
+        else:
+            return self.view.error()
 
-	def get_view_add_post(self, **kwargs):
-		"""view => user_add.html post"""
-		self.data = kwargs
-		if submit_on_validate(data):
-			self.model.set(data)
-		    return self.view.ok()
-		else:
-			return self.view.error()
-
-	def get_view_all():
-		"""view => user_add.html get"""
-		self.data = self.model.get_all()
-		return self.view.get_all()
+    def get_view_all():
+        """view => user_add.html get"""
+        self.data = self.model.get_all()
+        return self.view.get_all()
 
