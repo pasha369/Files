@@ -1,0 +1,6 @@
+c:\users\pasha\documents\visual studio 2012\Projects\sys_homework_1\sys_homework_1\bin\Debug\sys_homework_1.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\sys_homework_1\sys_homework_1\obj\Debug\sys_homework_1.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\sys_homework_1\sys_homework_1\bin\Debug\sys_homework_1.exe
+c:\users\pasha\documents\visual studio 2012\Projects\sys_homework_1\sys_homework_1\bin\Debug\sys_homework_1.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\sys_homework_1\sys_homework_1\obj\Debug\sys_homework_1.exe
+c:\users\pasha\documents\visual studio 2012\Projects\sys_homework_1\sys_homework_1\obj\Debug\sys_homework_1.pdb
