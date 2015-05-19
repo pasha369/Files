@@ -1,0 +1,6 @@
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\sys_homework_1\homework_1.3\bin\Debug\homework_1.3.exe.config
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\sys_homework_1\homework_1.3\bin\Debug\homework_1.3.exe
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\sys_homework_1\homework_1.3\bin\Debug\homework_1.3.pdb
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\sys_homework_1\homework_1.3\obj\Debug\homework_1.3.csprojResolveAssemblyReference.cache
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\sys_homework_1\homework_1.3\obj\Debug\homework_1.3.exe
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\sys_homework_1\homework_1.3\obj\Debug\homework_1.3.pdb

@@ -1,0 +1,17 @@
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\obj\Debug\homework_1._5.Form1.resources
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\obj\Debug\homework_1._5.Properties.Resources.resources
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\obj\Debug\SetData.csproj.GenerateResource.Cache
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\obj\Debug\homework 1.5.exe
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\bin\Debug\homework 1.5.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\bin\Debug\homework 1.5.exe
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\bin\Debug\homework 1.5.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\bin\Debug\QuickGraph.Data.dll
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\bin\Debug\QuickGraph.dll
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\bin\Debug\QuickGraph.Graphviz.dll
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\bin\Debug\QuickGraph.Serialization.dll
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\bin\Debug\QuickGraph.xml
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\bin\Debug\QuickGraph.Data.xml
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\bin\Debug\QuickGraph.Graphviz.xml
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\bin\Debug\QuickGraph.Serialization.xml
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\obj\Debug\homework 1.5.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\homework 1.5\obj\Debug\SetData.csprojResolveAssemblyReference.cache
