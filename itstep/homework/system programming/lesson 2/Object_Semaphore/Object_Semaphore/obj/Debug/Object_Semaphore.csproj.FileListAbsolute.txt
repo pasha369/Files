@@ -1,0 +1,9 @@
+c:\users\pasha\documents\visual studio 2012\Projects\Object_Semaphore\Object_Semaphore\bin\Debug\Object_Semaphore.exe.config
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\Object_Semaphore\Object_Semaphore\bin\Debug\Object_Semaphore.exe
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\Object_Semaphore\Object_Semaphore\bin\Debug\Object_Semaphore.pdb
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\Object_Semaphore\Object_Semaphore\obj\Debug\Object_Semaphore.csprojResolveAssemblyReference.cache
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\Object_Semaphore\Object_Semaphore\obj\Debug\Object_Semaphore.Form1.resources
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\Object_Semaphore\Object_Semaphore\obj\Debug\Object_Semaphore.Properties.Resources.resources
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\Object_Semaphore\Object_Semaphore\obj\Debug\Object_Semaphore.csproj.GenerateResource.Cache
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\Object_Semaphore\Object_Semaphore\obj\Debug\Object_Semaphore.exe
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\Object_Semaphore\Object_Semaphore\obj\Debug\Object_Semaphore.pdb
