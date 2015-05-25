@@ -1,0 +1,46 @@
+﻿<Window x:Class="MobileSMST9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="610" Width="325">
+    <Grid Background="LightGray">
+        <StackPanel>
+            <TextBox Margin="10px" Height="200px"></TextBox>
+            <Grid>
+                <Button Width="30px" Height="30px" HorizontalAlignment="Left">C</Button>
+                <Button Width="30px" Height="30px" HorizontalAlignment="Right">add</Button>
+                <StackPanel HorizontalAlignment="Center">
+                    <Button Width="30px" Height="30px" ></Button>
+                    <WrapPanel>
+                        <Button Width="30px" Height="30px" Margin="10px"></Button>
+                        <Button Width="30px" Height="30px" Margin="10px"></Button>
+                    </WrapPanel>
+                    <Button Width="30px" Height="30px" ></Button>
+                    
+                    
+                </StackPanel>
+            </Grid>
+            <Grid Margin="10px">
+                <Button Width="80px" Height="40px" HorizontalAlignment="Left" Name="btn_1">1</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Center" Name="btn_2">2 АБВГ ABC 
+                </Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Right"  Name="btn_3">3 ДЕЖЗ DEF</Button>
+            </Grid>
+            <Grid Margin="10px">
+                <Button Width="80px" Height="40px" HorizontalAlignment="Left"  Name="btn_4">4 HI</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Center"  Name="btn_5">5 JKL</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Right"  Name="btn_6">6 MNO</Button>
+            </Grid>
+            <Grid Margin="10px">
+                <Button Width="80px" Height="40px" HorizontalAlignment="Left"  Name="btn_7">7 PQRS</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Center"  Name="btn_8">8 TUV</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Right"  Name="btn_9">9 WXYZ</Button>
+            </Grid>
+            <Grid Margin="10px">
+                <Button Width="80px" Height="40px" HorizontalAlignment="Left">*</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Center">0 +</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Right">#</Button>
+            </Grid>
+        </StackPanel>
+        
+    </Grid>
+</Window>
