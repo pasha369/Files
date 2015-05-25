@@ -31,7 +31,7 @@ namespace Chat
         private void BtnCreateServer_OnClick(object sender, RoutedEventArgs e)
         {
             server = new Receiver(txtIpServer.Text, Convert.ToInt32(txtPortServer.Text));
-            
+            server.onReseive += ServerOnOnReseive;
             server.BeginListen();
         }
 
@@ -43,7 +43,16 @@ namespace Chat
         private void BtnSend_OnClick(object sender, RoutedEventArgs e)
         {
             Sender client = new Sender(txtIpClient.Text, Convert.ToInt32(txtPortClient.Text));
+            
             client.Send(txtMsg.Text);
+        }
+
+        private void ServerOnOnReseive(string msg)
+        {
+            txtField.Dispatcher.BeginInvoke(new Action<string>((msg_add) =>
+            {
+                txtField.AppendText(msg + '\n');
+            }), new object[] {msg});
         }
     }
 }
