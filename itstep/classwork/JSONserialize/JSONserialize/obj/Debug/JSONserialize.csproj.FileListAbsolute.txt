@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\bin\Debug\JSONserialize.exe.config
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\bin\Debug\JSONserialize.exe
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\bin\Debug\JSONserialize.pdb
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\JSONserialize.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\JSONserialize_MarkupCompile.cache
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\JSONserialize.g.resources
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\JSONserialize.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\JSONserialize.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\JSONserialize.exe
+c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\JSONserialize.pdb

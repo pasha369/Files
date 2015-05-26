@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\bin\Debug\wpf_client.exe.config
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\bin\Debug\wpf_client.exe
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\bin\Debug\wpf_client.pdb
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\obj\Debug\wpf_client.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\obj\Debug\wpf_client_MarkupCompile.cache
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\obj\Debug\wpf_client.g.resources
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\obj\Debug\wpf_client.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\obj\Debug\wpf_client.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\obj\Debug\wpf_client.exe
+c:\users\user\documents\visual studio 2012\Projects\wpf_client\wpf_client\obj\Debug\wpf_client.pdb
+C:\Users\user\Documents\files\itstep\classwork\FTPclient\wpf_client\bin\Debug\wpf_client.exe.config
+C:\Users\user\Documents\files\itstep\classwork\FTPclient\wpf_client\obj\Debug\wpf_client.exe
+C:\Users\user\Documents\files\itstep\classwork\FTPclient\wpf_client\obj\Debug\wpf_client.pdb
