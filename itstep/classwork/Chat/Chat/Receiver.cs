@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Globalization;
 using System.Linq;
 using System.Net;
@@ -21,6 +22,10 @@ namespace Chat
         private object state;
         private byte[] buffer;
         private string content;
+        public delegate void ReceiveData (String msg);
+
+        public event ReceiveData onReseive;
+
         public Receiver(string ip, int port)
         {
             
@@ -32,6 +37,7 @@ namespace Chat
         }
         public void BeginListen()
         {
+            Debug.WriteLine("BeginListen");
             try
             {
                 socket.Bind(ipEndPoint);
@@ -50,33 +56,39 @@ namespace Chat
 
         private void OnAccept(IAsyncResult ar)
         {
+            Debug.WriteLine("OnAccept");
+
             Socket listener = (Socket) ar.AsyncState;
             Socket handler = listener.EndAccept(ar);
 
             listener.BeginAccept(new AsyncCallback(OnAccept), listener);
 
             handler.BeginReceive(buffer, 0, 1024, 0, new AsyncCallback(OnReceive), handler);
-
+            
         }
 
         private void OnReceive(IAsyncResult ar)
         {
+            Debug.WriteLine("OnReceive");
             Socket handler= (Socket) ar.AsyncState;
 
             int bytes = handler.EndReceive(ar);
 
-            if (bytes > 0)
+            content = Encoding.ASCII.GetString(buffer, 0, bytes);
+            if (onReseive != null)
             {
-                content += Encoding.ASCII.GetString(buffer, 0, bytes);
-                if (content.IndexOf("<EOF>") > 0)
-                {
-                    handler.Shutdown(SocketShutdown.Both);
-                    handler.Close();
-                }
-                else
-                {
-                    handler.BeginReceive(buffer, 0, 1024, 0, new AsyncCallback(OnReceive), handler);
-                }
+                onReseive(content);
+            }
+            if (content.IndexOf("<EOF>") > 0)
+            {
+
+                handler.Shutdown(SocketShutdown.Both);
+                handler.Close();
+            }
+            if (bytes == 1024)
+            {
+
+                   handler.BeginReceive(buffer, 0, 1024, 0, new AsyncCallback(OnReceive), handler);
             }
 
 

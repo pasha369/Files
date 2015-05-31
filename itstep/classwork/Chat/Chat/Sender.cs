@@ -32,6 +32,9 @@ namespace Chat
             {
                 Socket client = (Socket)ar.AsyncState;
                 client.EndConnect(ar);
+
+                client.BeginSend(byteData, offset, Math.Min(byteData.Length, 1024), 0,
+                    new AsyncCallback(OnSend), client);
             }
             catch (Exception)
             {
@@ -46,8 +49,7 @@ namespace Chat
             byteData = Encoding.ASCII.GetBytes(content);
             offset = 0;
 
-            client.BeginSend(byteData, offset, Math.Min(byteData.Length, 1024), 0,
-                new AsyncCallback(OnSend), client);
+            
         }
 
         private void OnSend(IAsyncResult ar)
@@ -60,14 +62,6 @@ namespace Chat
 
                 if (offset < byteData.Length)
                     handler.BeginSend(byteData, offset, Math.Min(byteData.Length - offset, 1024), 0, new AsyncCallback(OnSend), handler);
-                else
-                {
-                    handler.Shutdown(SocketShutdown.Both);
-                    handler.Close();   
-                }
-                
-                
-
             }
             catch (Exception)
             {

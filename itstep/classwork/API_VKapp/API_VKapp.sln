@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_VKapp", "API_VKapp\API_VKapp.csproj", "{545EE187-CA72-452E-A5F9-5F2707F66CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545EE187-CA72-452E-A5F9-5F2707F66CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545EE187-CA72-452E-A5F9-5F2707F66CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545EE187-CA72-452E-A5F9-5F2707F66CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545EE187-CA72-452E-A5F9-5F2707F66CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
