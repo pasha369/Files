@@ -11,3 +11,6 @@ c:\users\pasha\documents\visual studio 2012\Projects\MobileSMST9\MobileSMST9\obj
 c:\users\pasha\documents\visual studio 2012\Projects\MobileSMST9\MobileSMST9\obj\Debug\MobileSMST9.csproj.GenerateResource.Cache
 c:\users\pasha\documents\visual studio 2012\Projects\MobileSMST9\MobileSMST9\obj\Debug\MobileSMST9.exe
 c:\users\pasha\documents\visual studio 2012\Projects\MobileSMST9\MobileSMST9\obj\Debug\MobileSMST9.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\lesson 2\MobileSMST9\MobileSMST9\bin\Debug\MobileSMST9.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\lesson 2\MobileSMST9\MobileSMST9\obj\Debug\MobileSMST9.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\lesson 2\MobileSMST9\MobileSMST9\obj\Debug\MobileSMST9.pdb
