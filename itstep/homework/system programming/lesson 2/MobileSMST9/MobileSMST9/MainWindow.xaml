@@ -4,10 +4,10 @@
         Title="MainWindow" Height="610" Width="325">
     <Grid Background="LightGray">
         <StackPanel>
-            <TextBox Margin="10px" Height="200px"></TextBox>
+            <TextBox Margin="10px" Height="200px" Name="txtField"></TextBox>
             <Grid>
-                <Button Width="30px" Height="30px" HorizontalAlignment="Left">C</Button>
-                <Button Width="30px" Height="30px" HorizontalAlignment="Right">add</Button>
+                <Button Width="30px" Height="30px" HorizontalAlignment="Left" Name="btnClear" Click="btnClear_Click_1">C</Button>
+                <Button Width="30px" Height="30px" HorizontalAlignment="Right" Name="btnAdd" Click="btnAdd_Click_1">add</Button>
                 <StackPanel HorizontalAlignment="Center">
                     <Button Width="30px" Height="30px" ></Button>
                     <WrapPanel>
@@ -20,25 +20,25 @@
                 </StackPanel>
             </Grid>
             <Grid Margin="10px">
-                <Button Width="80px" Height="40px" HorizontalAlignment="Left" Name="btn_1">1</Button>
-                <Button Width="80px" Height="40px" HorizontalAlignment="Center" Name="btn_2">2 АБВГ ABC 
+                <Button Width="80px" Height="40px" HorizontalAlignment="Left" Name="btn_1" Click="btnNum_Click_1">1</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Center" Name="btn_2" Click="btnNum_Click_1">2 ABC 
                 </Button>
-                <Button Width="80px" Height="40px" HorizontalAlignment="Right"  Name="btn_3">3 ДЕЖЗ DEF</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Right"  Name="btn_3" Click="btnNum_Click_1">3 DEF</Button>
             </Grid>
             <Grid Margin="10px">
-                <Button Width="80px" Height="40px" HorizontalAlignment="Left"  Name="btn_4">4 HI</Button>
-                <Button Width="80px" Height="40px" HorizontalAlignment="Center"  Name="btn_5">5 JKL</Button>
-                <Button Width="80px" Height="40px" HorizontalAlignment="Right"  Name="btn_6">6 MNO</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Left"  Name="btn_4" Click="btnNum_Click_1">4 HI</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Center"  Name="btn_5" Click="btnNum_Click_1">5 JKL</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Right"  Name="btn_6" Click="btnNum_Click_1">6 MNO</Button>
             </Grid>
             <Grid Margin="10px">
-                <Button Width="80px" Height="40px" HorizontalAlignment="Left"  Name="btn_7">7 PQRS</Button>
-                <Button Width="80px" Height="40px" HorizontalAlignment="Center"  Name="btn_8">8 TUV</Button>
-                <Button Width="80px" Height="40px" HorizontalAlignment="Right"  Name="btn_9">9 WXYZ</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Left"  Name="btn_7" Click="btnNum_Click_1">7 PQRS</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Center"  Name="btn_8" Click="btnNum_Click_1">8 TUV</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Right"  Name="btn_9" Click="btnNum_Click_1">9 WXYZ</Button>
             </Grid>
             <Grid Margin="10px">
-                <Button Width="80px" Height="40px" HorizontalAlignment="Left">*</Button>
-                <Button Width="80px" Height="40px" HorizontalAlignment="Center">0 +</Button>
-                <Button Width="80px" Height="40px" HorizontalAlignment="Right">#</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Left" Click="btnNum_Click_1">*</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Center" Click="btnNum_Click_1">0 +</Button>
+                <Button Width="80px" Height="40px" HorizontalAlignment="Right" Click="btnNum_Click_1">#</Button>
             </Grid>
         </StackPanel>
         
