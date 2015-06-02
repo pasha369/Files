@@ -1,5 +1,5 @@
-2015/05/25-16:53:52.232 ee8 Recovering log #9
-2015/05/25-16:53:52.232 ee8 Level-0 table #11: started
-2015/05/25-16:53:52.261 ee8 Level-0 table #11: 511 bytes OK
-2015/05/25-16:53:52.329 ee8 Delete type=0 #9
-2015/05/25-16:53:52.329 ee8 Delete type=3 #7
+2015/06/01-16:44:57.764 348 Recovering log #22
+2015/06/01-16:44:57.764 348 Level-0 table #24: started
+2015/06/01-16:44:57.764 348 Level-0 table #24: 0 bytes OK
+2015/06/01-16:44:57.825 348 Delete type=0 #22
+2015/06/01-16:44:57.825 348 Delete type=3 #20
