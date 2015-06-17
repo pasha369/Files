@@ -1,0 +1,11 @@
+﻿<Window x:Class="PortScaner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <Button Width="100px" Height="30px" Name="btnScaner" Click="btnScaner_Click_1">scanner</Button>
+            <TextBox Margin="10px" Height="250" HorizontalScrollBarVisibility="Auto" Name="txtFreePorts"></TextBox>
+        </StackPanel>
+    </Grid>
+</Window>

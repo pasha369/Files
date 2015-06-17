@@ -1,0 +1,12 @@
+c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\bin\Debug\Hosting.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\bin\Debug\Hosting.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\bin\Debug\Hosting.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\bin\Debug\EntityFramework.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\bin\Debug\Newtonsoft.Json.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\bin\Debug\EntityFramework.xml
+c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\bin\Debug\Newtonsoft.Json.xml
+c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\obj\Debug\Hosting.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\obj\Debug\Hosting.pdb
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\Hosting\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache

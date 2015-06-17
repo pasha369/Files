@@ -1,0 +1,11 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:WindowsPresentation="clr-namespace:GMap.NET.WindowsPresentation;assembly=GMap.NET.WindowsPresentation" x:Class="JMAPexample.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+
+        <WindowsPresentation:GMapControl HorizontalAlignment="Center" Height="300" VerticalAlignment="Center" Width="300" Name="Map" />
+
+    </Grid>
+</Window>

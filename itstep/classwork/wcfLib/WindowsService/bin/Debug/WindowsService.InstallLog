@@ -1,0 +1,43 @@
+﻿Installing assembly 'C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.exe
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.exe
+Uninstalling assembly 'C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.exe
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.exe
+Installing service TestService...
+Creating EventLog source TestService in log Application...
+Rolling back assembly 'C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.exe
+Restoring event log to previous state for source TestService.
+Uninstalling assembly 'C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\pasha\Documents\Visual Studio 2012\Projects\wcfLib\WindowsService\bin\Debug\WindowsService.exe
+Removing EventLog source TestService.
+Warning: The source TestService is not registered on the local machine.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.

@@ -1,0 +1,5 @@
+c:\Users\pasha\documents\visual studio 2012\Projects\MyServer\MyClient\bin\Debug\MyClient.exe.config
+c:\Users\pasha\documents\visual studio 2012\Projects\MyServer\MyClient\bin\Debug\MyClient.exe
+c:\Users\pasha\documents\visual studio 2012\Projects\MyServer\MyClient\bin\Debug\MyClient.pdb
+c:\Users\pasha\documents\visual studio 2012\Projects\MyServer\MyClient\obj\Debug\MyClient.exe
+c:\Users\pasha\documents\visual studio 2012\Projects\MyServer\MyClient\obj\Debug\MyClient.pdb

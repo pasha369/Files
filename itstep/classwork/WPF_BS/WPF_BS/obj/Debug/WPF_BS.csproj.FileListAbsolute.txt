@@ -1,0 +1,15 @@
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\bin\Debug\WPF_BS.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\bin\Debug\WPF_BS.exe
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\bin\Debug\WPF_BS.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\WPF_BS.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\MainWindow.baml
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\View\WMCatalog.baml
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\MainWindow.g.cs
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\View\WMCatalog.g.cs
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\App.g.cs
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\WPF_BS_MarkupCompile.cache
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\WPF_BS.g.resources
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\WPF_BS.Properties.Resources.resources
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\WPF_BS.csproj.GenerateResource.Cache
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\WPF_BS.exe
+c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\WPF_BS.pdb

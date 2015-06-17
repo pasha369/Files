@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="15B3E0D2-6217-493A-A690-158C497F5318" ModuleId="wcfLib" />
+  <Module PersistentId="2A2C2E24-4CA5-4EB7-BCB1-64C20719765A" ModuleId="WindowsService" />
+  <Module PersistentId="DDC1514E-4A0D-4E74-BBEB-389FBECFC561" ModuleId="Client" />
+</Modules>

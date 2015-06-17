@@ -1,0 +1,9 @@
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusServer\bin\Debug\VirusServer.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusServer\bin\Debug\VirusServer.exe
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusServer\bin\Debug\VirusServer.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusServer\obj\Debug\VirusServer.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusServer\obj\Debug\VirusServer.Form1.resources
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusServer\obj\Debug\VirusServer.Properties.Resources.resources
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusServer\obj\Debug\VirusServer.csproj.GenerateResource.Cache
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusServer\obj\Debug\VirusServer.exe
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusServer\obj\Debug\VirusServer.pdb

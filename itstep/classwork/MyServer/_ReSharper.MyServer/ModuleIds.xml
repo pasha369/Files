@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="77C12BAA-2D3C-46B6-BDE8-825369A51B20" ModuleId="MyServer" />
+  <Module PersistentId="3E3D3D2C-C0A6-4EF1-BAD1-7E5F6867ECD6" ModuleId="MyClient" />
+</Modules>

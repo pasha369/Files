@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Users\pasha\Documents\Visual Studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pasha\Documents\Visual Studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.InstallLog
+   assemblypath = C:\Users\pasha\Documents\Visual Studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\pasha\Documents\Visual Studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pasha\Documents\Visual Studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.InstallLog
+   assemblypath = C:\Users\pasha\Documents\Visual Studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe
+Uninstalling assembly 'C:\Users\pasha\Documents\Visual Studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\pasha\Documents\Visual Studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.InstallLog
+   assemblypath = C:\Users\pasha\Documents\Visual Studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.

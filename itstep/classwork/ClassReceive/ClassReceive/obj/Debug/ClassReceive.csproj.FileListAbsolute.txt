@@ -1,0 +1,5 @@
+c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\ClassReceive\bin\Debug\ClassReceive.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\ClassReceive\bin\Debug\ClassReceive.exe
+c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\ClassReceive\bin\Debug\ClassReceive.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\ClassReceive\obj\Debug\ClassReceive.exe
+c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\ClassReceive\obj\Debug\ClassReceive.pdb

@@ -1,0 +1,1 @@
+c:\users\pasha\documents\visual studio 2012\Projects\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.exe.config

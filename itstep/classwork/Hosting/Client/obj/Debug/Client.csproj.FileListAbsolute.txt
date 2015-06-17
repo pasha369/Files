@@ -1,0 +1,15 @@
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\bin\Debug\Client.exe.config
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\bin\Debug\Client.exe
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\bin\Debug\Client.pdb
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\obj\Debug\MainWindow.baml
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\obj\Debug\MainWindow.g.cs
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\obj\Debug\App.g.cs
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\obj\Debug\Client_MarkupCompile.cache
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\obj\Debug\Client.g.resources
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\obj\Debug\Client.Properties.Resources.resources
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\obj\Debug\Client.exe
+c:\Users\pasha\documents\visual studio 2012\Projects\Hosting\Client\obj\Debug\Client.pdb
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\Hosting\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\Hosting\Client\bin\Debug\Newtonsoft.Json.xml

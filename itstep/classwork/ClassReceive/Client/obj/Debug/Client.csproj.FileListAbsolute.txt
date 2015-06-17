@@ -1,0 +1,5 @@
+c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\Client\bin\Debug\Client.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\Client\bin\Debug\Client.exe
+c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\Client\bin\Debug\Client.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\Client\obj\Debug\Client.exe
+c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\Client\obj\Debug\Client.pdb

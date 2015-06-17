@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ServiceAuthModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ServiceAuthEntities1" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="UserInfo" EntityType="ServiceAuthModel.UserInfo" />
+  </EntityContainer>
+  <EntityType Name="UserInfo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="user_name" Type="String" Nullable="false" MaxLength="60" Unicode="false" FixedLength="false" />
+    <Property Name="login" Type="String" Nullable="false" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="pass" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="token" Type="String" MaxLength="80" Unicode="false" FixedLength="false" />
+    <Property Name="exp_date" Type="DateTime" Precision="0" />
+    <Property Type="String" Name="salt" MaxLength="55" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

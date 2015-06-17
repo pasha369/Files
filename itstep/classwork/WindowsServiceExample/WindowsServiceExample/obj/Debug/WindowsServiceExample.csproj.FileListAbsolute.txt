@@ -1,0 +1,8 @@
+c:\users\pasha\documents\visual studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.exe
+c:\users\pasha\documents\visual studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\bin\Debug\WindowsServiceExample.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\obj\Debug\WindowsServiceExample.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\obj\Debug\WindowsServiceExample.exe
+c:\users\pasha\documents\visual studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\obj\Debug\WindowsServiceExample.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\obj\Debug\WindowsServiceExample.ProjectInstaller.resources
+c:\users\pasha\documents\visual studio 2012\Projects\WindowsServiceExample\WindowsServiceExample\obj\Debug\WindowsServiceExample.csproj.GenerateResource.Cache

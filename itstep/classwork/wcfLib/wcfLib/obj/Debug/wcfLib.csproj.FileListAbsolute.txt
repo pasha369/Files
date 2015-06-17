@@ -1,0 +1,5 @@
+c:\users\pasha\documents\visual studio 2012\Projects\wcfLib\wcfLib\bin\Debug\wcfLib.dll.config
+c:\users\pasha\documents\visual studio 2012\Projects\wcfLib\wcfLib\bin\Debug\wcfLib.dll
+c:\users\pasha\documents\visual studio 2012\Projects\wcfLib\wcfLib\bin\Debug\wcfLib.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\wcfLib\wcfLib\obj\Debug\wcfLib.dll
+c:\users\pasha\documents\visual studio 2012\Projects\wcfLib\wcfLib\obj\Debug\wcfLib.pdb

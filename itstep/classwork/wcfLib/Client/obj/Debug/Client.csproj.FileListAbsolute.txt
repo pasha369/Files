@@ -1,0 +1,5 @@
+c:\Users\pasha\documents\visual studio 2012\Projects\wcfLib\Client\bin\Debug\Client.exe.config
+c:\Users\pasha\documents\visual studio 2012\Projects\wcfLib\Client\bin\Debug\Client.exe
+c:\Users\pasha\documents\visual studio 2012\Projects\wcfLib\Client\bin\Debug\Client.pdb
+c:\Users\pasha\documents\visual studio 2012\Projects\wcfLib\Client\obj\Debug\Client.exe
+c:\Users\pasha\documents\visual studio 2012\Projects\wcfLib\Client\obj\Debug\Client.pdb

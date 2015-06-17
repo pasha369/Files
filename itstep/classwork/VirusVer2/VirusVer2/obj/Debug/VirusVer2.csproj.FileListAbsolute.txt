@@ -1,0 +1,13 @@
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\bin\Debug\VirusVer2.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\bin\Debug\VirusVer2.exe
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\bin\Debug\VirusVer2.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\obj\Debug\VirusVer2.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\obj\Debug\MainWindow.baml
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\obj\Debug\MainWindow.g.cs
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\obj\Debug\App.g.cs
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\obj\Debug\VirusVer2_MarkupCompile.cache
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\obj\Debug\VirusVer2.g.resources
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\obj\Debug\VirusVer2.Properties.Resources.resources
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\obj\Debug\VirusVer2.csproj.GenerateResource.Cache
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\obj\Debug\VirusVer2.exe
+c:\users\pasha\documents\visual studio 2012\Projects\VirusVer2\VirusVer2\obj\Debug\VirusVer2.pdb
