@@ -1,0 +1,5 @@
+2015/06/02-20:01:29.576 19ec Recovering log #3
+2015/06/02-20:01:29.576 19ec Level-0 table #5: started
+2015/06/02-20:01:29.654 19ec Level-0 table #5: 11144 bytes OK
+2015/06/02-20:01:29.737 19ec Delete type=0 #3
+2015/06/02-20:01:29.737 19ec Delete type=3 #2

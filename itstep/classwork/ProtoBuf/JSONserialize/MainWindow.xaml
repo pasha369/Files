@@ -1,0 +1,22 @@
+﻿<Window x:Class="JSONserialize.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <Label>User info</Label>
+            <Grid>
+                <Label Margin="20 0 0 0">Name: </Label>
+                <TextBox Margin="100 5" Name="txtName"></TextBox>
+            </Grid>
+            <Grid>
+                <Label Margin="20 0 0 0">Surname:</Label>
+                <TextBox Margin="100 5" Name="txtPassword"></TextBox>
+            </Grid>
+            <Button Name="btnSave" Click="BtnSave_OnClick">Save</Button>
+            <Button Name="btnSerialize" Click="BtnSerialize_OnClick">Serialize</Button>
+            <Button Name="btnDeserialize" Click="BtnDeserialize_OnClick">Deserialize</Button>
+            <TextBox Name="txtOut"></TextBox>
+        </StackPanel>
+    </Grid>
+</Window>

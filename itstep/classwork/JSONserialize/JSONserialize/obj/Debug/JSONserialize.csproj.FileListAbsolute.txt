@@ -13,3 +13,6 @@ c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\
 c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\JSONserialize.csproj.GenerateResource.Cache
 c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\JSONserialize.exe
 c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\obj\Debug\JSONserialize.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\bin\Debug\JSONserialize.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\obj\Debug\JSONserialize.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\obj\Debug\JSONserialize.pdb

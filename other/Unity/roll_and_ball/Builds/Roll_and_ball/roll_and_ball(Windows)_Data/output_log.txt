@@ -12,7 +12,7 @@ Platform assembly: C:\Users\pasha\Documents\git_folder\folder\other\Unity\roll_a
 Loading C:\Users\pasha\Documents\git_folder\folder\other\Unity\roll_and_ball\Builds\Roll_and_ball\roll_and_ball(Windows)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: C:\Users\pasha\Documents\git_folder\folder\other\Unity\roll_and_ball\Builds\Roll_and_ball\roll_and_ball(Windows)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\pasha\Documents\git_folder\folder\other\Unity\roll_and_ball\Builds\Roll_and_ball\roll_and_ball(Windows)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.053 seconds
+- Completed reload, in  0.272 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
@@ -20,4 +20,4 @@ desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 Platform assembly: C:\Users\pasha\Documents\git_folder\folder\other\Unity\roll_and_ball\Builds\Roll_and_ball\roll_and_ball(Windows)_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\pasha\Documents\git_folder\folder\other\Unity\roll_and_ball\Builds\Roll_and_ball\roll_and_ball(Windows)_Data\Managed\System.dll (this message is harmless)
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 8dc -> priority: 1 
+  Thread -> id: 222c -> priority: 1 
