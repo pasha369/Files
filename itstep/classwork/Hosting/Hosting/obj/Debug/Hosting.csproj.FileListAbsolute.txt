@@ -10,3 +10,6 @@ c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\bin\Debug\N
 c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\obj\Debug\Hosting.exe
 c:\users\pasha\documents\visual studio 2012\Projects\Hosting\Hosting\obj\Debug\Hosting.pdb
 C:\Users\pasha\Documents\Visual Studio 2012\Projects\Hosting\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\Hosting\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\Hosting\Hosting\obj\Debug\Hosting.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\Hosting\Hosting\obj\Debug\Hosting.pdb
