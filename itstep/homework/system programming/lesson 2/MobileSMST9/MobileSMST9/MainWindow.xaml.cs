@@ -49,24 +49,39 @@ namespace MobileSMST9
 
         private void btnNum_Click_1(object sender, RoutedEventArgs e)
         {
+            
             if(curBtn == null || curBtn != sender as Button)
             {
+                txtField.CaretIndex += 1;
+                txtField.SelectionStart = txtField.CaretIndex;
+                txtField.Focus();
+
                 index = 0;
                 isNewBtn = true;
                 curBtn = sender as Button;
                 timer = new Timer(new TimerCallback(SetSymbol));
-                timer.Change(1000, 1000);
+                timer.Change(3000, 3000);
+
+                
             }
             char[] symbols = Regex.Replace(curBtn.Content.ToString(), @"\s+", "").ToCharArray();
 
-            Thread runByDict = new Thread(new ThreadStart(RunByDict));
 
+            Thread runByDict = new Thread(new ThreadStart(RunByDict));
+            runByDict.Start();
+
+            index++;
             if(index == symbols.Length)
             {
                 index = 0;
             }
 
-            index++;
+            txtField.SelectedText = symbols[index].ToString();
+
+            txtField.SelectionStart = txtField.Text.Length - 1;
+            txtField.Focus();
+
+            
         }
 
         private void SetSymbol(object state)
@@ -77,8 +92,9 @@ namespace MobileSMST9
                 DispatcherPriority.Background,
                 new Action(() =>
                  {
-                     char[] symbols = Regex.Replace(curBtn.Content.ToString(), @"\s+", "").ToCharArray();
-                     txtField.AppendText(symbols[index].ToString());
+                     txtField.CaretIndex += 1;
+                     txtField.SelectionLength = 0;
+                     txtField.SelectionStart = txtField.CaretIndex;
                  }));
                 
             }
@@ -88,11 +104,23 @@ namespace MobileSMST9
 
         private void RunByDict()
         {
-            if (FindEnterWordInDict(txtField.Text.Split(' ').Last()) != "")
+            string finded_word = "";
+            Application.Current.Dispatcher.BeginInvoke(
+                DispatcherPriority.Background,
+                new Action(() =>
+                               {
+                                    finded_word = FindEnterWordInDict(txtField.Text.Split(' ').Last());
+                                  
+            if (finded_word != "")
             {
-                txtField.AppendText(FindEnterWordInDict(txtField.Text.Split(' ').Last()));
+                txtField.SelectionStart = txtField.Text.Length - 1;
+                txtField.Focus();
+                txtField.SelectedText = FindEnterWordInDict(txtField.Text.Split(' ').Last());
+                txtField.SelectionStart = txtField.Text.Length + 1 -
+                                          FindEnterWordInDict(txtField.Text.Split(' ').Last()).Length;
                 return;
             }
+            }));
         }
 
         private  string FindEnterWordInDict(string inWord)
