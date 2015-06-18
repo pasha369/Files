@@ -33,6 +33,7 @@
             this.dataTable2 = new System.Data.DataTable();
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
+            this.btnSet = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataSet1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataTable1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataTable2)).BeginInit();
@@ -69,11 +70,22 @@
             this.numericUpDown2.Size = new System.Drawing.Size(120, 20);
             this.numericUpDown2.TabIndex = 0;
             // 
+            // btnSet
+            // 
+            this.btnSet.Location = new System.Drawing.Point(98, 89);
+            this.btnSet.Name = "btnSet";
+            this.btnSet.Size = new System.Drawing.Size(75, 23);
+            this.btnSet.TabIndex = 1;
+            this.btnSet.Text = "set";
+            this.btnSet.UseVisualStyleBackColor = true;
+            this.btnSet.Click += new System.EventHandler(this.btnSet_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 262);
+            this.Controls.Add(this.btnSet);
             this.Controls.Add(this.numericUpDown2);
             this.Controls.Add(this.numericUpDown1);
             this.Name = "Form1";
@@ -94,6 +106,7 @@
         private System.Data.DataTable dataTable2;
         private System.Windows.Forms.NumericUpDown numericUpDown1;
         private System.Windows.Forms.NumericUpDown numericUpDown2;
+        private System.Windows.Forms.Button btnSet;
 
 
 

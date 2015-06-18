@@ -16,7 +16,7 @@ namespace homework_1._5
         Module DrawerModule { get; set; }
         object Drawer;
 
-        private DataSet ds;
+
 
         public Form1()
         {
@@ -29,21 +29,12 @@ namespace homework_1._5
             Drawer = targetWindow;
 
             InitializeComponent();
-            ds = new DataSet();
+           
+        }
 
-            DataTable table = new DataTable();
-            table.Columns.Add("date");
-            table.Columns.Add("temperature");
-            table.Rows.Add(1, 1);
-            table.Rows.Add(12, 2);
-            table.Rows.Add(1, 1);
-            table.Rows.Add(12, 2);
-            table.Rows.Add(1, 1);
-            table.Rows.Add(12, 2);
-
-            ds.Tables.Add(table);
-            DrawerModule.GetType("GraphDesigner.Form1").GetMethod("SetTemp").Invoke(Drawer, new object[] { 1, 2 });
-            DrawerModule.GetType("GraphDesigner.Form1").GetMethod("SetTemp").Invoke(Drawer, new object[] { 10, 22 });
+        private void btnSet_Click(object sender, EventArgs e)
+        {
+            DrawerModule.GetType("GraphDesigner.Form1").GetMethod("SetTemp").Invoke(Drawer, new object[] { Convert.ToInt32(numericUpDown1.Value), Convert.ToInt32(numericUpDown2.Value) });
         }
     }
 }

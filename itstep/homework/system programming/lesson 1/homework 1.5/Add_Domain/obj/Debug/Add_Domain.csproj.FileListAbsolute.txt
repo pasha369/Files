@@ -6,3 +6,8 @@ c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\Add_Domain\bin
 c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\Add_Domain\obj\Debug\Add_Domain.csprojResolveAssemblyReference.cache
 c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\Add_Domain\obj\Debug\Add_Domain.exe
 c:\users\pasha\documents\visual studio 2012\Projects\homework 1.5\Add_Domain\obj\Debug\Add_Domain.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\lesson 1\homework 1.5\Add_Domain\bin\Debug\Add_Domain.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\lesson 1\homework 1.5\Add_Domain\obj\Debug\Interop.MSForms.dll
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\lesson 1\homework 1.5\Add_Domain\obj\Debug\Add_Domain.csproj.ResolveComReference.cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\lesson 1\homework 1.5\Add_Domain\obj\Debug\Add_Domain.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\lesson 1\homework 1.5\Add_Domain\obj\Debug\Add_Domain.pdb
