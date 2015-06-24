@@ -38,3 +38,15 @@ money: 2000
 name: pasha
 percent: 1000
 ---------------------
+money: 2000
+name: 
+percent: 0
+---------------------
+money: 2000
+name: pasha
+percent: 0
+---------------------
+money: 2000
+name: pasha
+percent: 1000
+---------------------

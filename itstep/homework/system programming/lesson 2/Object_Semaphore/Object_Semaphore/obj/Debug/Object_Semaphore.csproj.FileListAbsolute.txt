@@ -7,3 +7,6 @@ C:\Users\pasha\Documents\Visual Studio 2012\Projects\Object_Semaphore\Object_Sem
 C:\Users\pasha\Documents\Visual Studio 2012\Projects\Object_Semaphore\Object_Semaphore\obj\Debug\Object_Semaphore.csproj.GenerateResource.Cache
 C:\Users\pasha\Documents\Visual Studio 2012\Projects\Object_Semaphore\Object_Semaphore\obj\Debug\Object_Semaphore.exe
 C:\Users\pasha\Documents\Visual Studio 2012\Projects\Object_Semaphore\Object_Semaphore\obj\Debug\Object_Semaphore.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\lesson 2\Object_Semaphore\Object_Semaphore\bin\Debug\Object_Semaphore.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\lesson 2\Object_Semaphore\Object_Semaphore\obj\Debug\Object_Semaphore.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\lesson 2\Object_Semaphore\Object_Semaphore\obj\Debug\Object_Semaphore.pdb

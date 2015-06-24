@@ -4,3 +4,9 @@ C:\Users\pasha\documents\visual studio 2012\Projects\virus\homework_virus\bin\De
 C:\Users\pasha\documents\visual studio 2012\Projects\virus\homework_virus\obj\Debug\homework_virus.csprojResolveAssemblyReference.cache
 C:\Users\pasha\documents\visual studio 2012\Projects\virus\homework_virus\obj\Debug\homework_virus.exe
 C:\Users\pasha\documents\visual studio 2012\Projects\virus\homework_virus\obj\Debug\homework_virus.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\homework_virus\bin\Debug\homework_virus.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\homework_virus\obj\Debug\homework_virus.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\homework_virus\obj\Debug\homework_virus.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\homework_virus\bin\Debug\homework_virus.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\homework_virus\bin\Debug\homework_virus.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\homework_virus\obj\Debug\homework_virus.csprojResolveAssemblyReference.cache

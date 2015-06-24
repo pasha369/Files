@@ -4,3 +4,6 @@ c:\users\pasha\documents\visual studio 2012\Projects\semaphore\semaphore\bin\Deb
 c:\users\pasha\documents\visual studio 2012\Projects\semaphore\semaphore\bin\Debug\semaphore.pdb
 c:\users\pasha\documents\visual studio 2012\Projects\semaphore\semaphore\obj\Debug\semaphore.exe
 c:\users\pasha\documents\visual studio 2012\Projects\semaphore\semaphore\obj\Debug\semaphore.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\semaphore\semaphore\bin\Debug\semaphore.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\semaphore\semaphore\obj\Debug\semaphore.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\homework\system programming\semaphore\semaphore\obj\Debug\semaphore.pdb

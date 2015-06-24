@@ -6,3 +6,5 @@ c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\Client\obj\Deb
 C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\ClassReceive\Client\bin\Debug\Client.exe.config
 C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\ClassReceive\Client\obj\Debug\Client.exe
 C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\ClassReceive\Client\obj\Debug\Client.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\ClassReceive\Client\bin\Debug\Client.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\ClassReceive\Client\bin\Debug\Client.pdb

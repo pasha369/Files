@@ -12,7 +12,7 @@ namespace Client
         static void Main(string[] args)
         {
             MyMathClient mathClient = new MyMathClient();
-            MathResult resulr = mathClient.Total(2.6, 4.77);
+            MathResult resulr = mathClient.Total(0, 0);
             Console.WriteLine(" +: {0}", resulr.sum);
             Console.WriteLine(" -: {0}", resulr.subtr);
             Console.WriteLine(" /: {0}", resulr.div);

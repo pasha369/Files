@@ -3,3 +3,8 @@ c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\ClassReceive\b
 c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\ClassReceive\bin\Debug\ClassReceive.pdb
 c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\ClassReceive\obj\Debug\ClassReceive.exe
 c:\users\pasha\documents\visual studio 2012\Projects\ClassReceive\ClassReceive\obj\Debug\ClassReceive.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\ClassReceive\ClassReceive\bin\Debug\ClassReceive.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\ClassReceive\ClassReceive\bin\Debug\ClassReceive.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\ClassReceive\ClassReceive\bin\Debug\ClassReceive.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\ClassReceive\ClassReceive\obj\Debug\ClassReceive.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\ClassReceive\ClassReceive\obj\Debug\ClassReceive.pdb

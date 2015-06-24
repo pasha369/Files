@@ -110,14 +110,14 @@ namespace Client.ServiceReference1 {
     [System.ServiceModel.ServiceContractAttribute(ConfigurationName="ServiceReference1.IMyMath")]
     public interface IMyMath {
         
-        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMyMath/Total", ReplyAction="http://tempuri.org/IMyMath/TotalResponse", Name = "Total")]
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMyMath/Total", ReplyAction="http://tempuri.org/IMyMath/TotalResponse")]
         Client.ServiceReference1.MathResult Total(int x, int y);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMyMath/Total", ReplyAction="http://tempuri.org/IMyMath/TotalResponse")]
         System.Threading.Tasks.Task<Client.ServiceReference1.MathResult> TotalAsync(int x, int y);
-
-        [System.ServiceModel.OperationContractAttribute(Action = "http://tempuri.org/IMyMath/TotalDouble", ReplyAction = "http://tempuri.org/IMyMath/TotalDoubleResponse", Name = "TotalDouble")]
-        Client.ServiceReference1.MathResult Total(double x, double y);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMyMath/TotalDouble", ReplyAction="http://tempuri.org/IMyMath/TotalDoubleResponse")]
+        Client.ServiceReference1.MathResult TotalDouble(double x, double y);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMyMath/TotalDouble", ReplyAction="http://tempuri.org/IMyMath/TotalDoubleResponse")]
         System.Threading.Tasks.Task<Client.ServiceReference1.MathResult> TotalDoubleAsync(double x, double y);
@@ -158,8 +158,8 @@ namespace Client.ServiceReference1 {
             return base.Channel.TotalAsync(x, y);
         }
         
-        public Client.ServiceReference1.MathResult Total(double x, double y) {
-            return base.Channel.Total(x, y);
+        public Client.ServiceReference1.MathResult TotalDouble(double x, double y) {
+            return base.Channel.TotalDouble(x, y);
         }
         
         public System.Threading.Tasks.Task<Client.ServiceReference1.MathResult> TotalDoubleAsync(double x, double y) {
