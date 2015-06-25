@@ -44,6 +44,7 @@ namespace JSONserialize
         {
            
             DubUser user = JsonConvert.DeserializeObject<DubUser>(json_temp);
+            txtOut.Text = "name: " + user._name + " password:" + user._password;
         }
     }
 }

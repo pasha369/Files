@@ -34,8 +34,18 @@ namespace HTMLParser
             var temp2 = htmlDocument
                 .DocumentNode
                 .Descendants("a")
-                .Where(p => p.Attributes.Contains("rev") && p.Attributes["rev"].Value.Contains("mostpopular-read|headline")).Select(p => p.InnerText).ToList();
+                .Where(p => p.Attributes.Contains("class") && p.Attributes["class"].Value.Contains("page_title")).Select(p => p.InnerText).ToList();
+            var temp4 = htmlDocument
+                .DocumentNode
+                .Descendants("a")
+                .Where(p => p.Attributes.Contains("class") && p.Attributes["class"].Value.Contains("hero_summary")).Select(p => p.InnerText).ToString();
             var temp3 = htmlDocument.DocumentNode.SelectNodes("//*[@id=\"most_popular_tabs_read\"]");
+            foreach (var str in temp2)
+            {
+                txtOut.Text += str + "\n";
+                txtOut.Text += temp4;
+            }
+
         }
     }
 }

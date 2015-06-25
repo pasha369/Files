@@ -13,3 +13,6 @@ c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\WPF
 c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\WPF_BS.csproj.GenerateResource.Cache
 c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\WPF_BS.exe
 c:\users\pasha\documents\visual studio 2012\Projects\WPF_BS\WPF_BS\obj\Debug\WPF_BS.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\WPF_BS\WPF_BS\bin\Debug\WPF_BS.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\WPF_BS\WPF_BS\obj\Debug\WPF_BS.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\WPF_BS\WPF_BS\obj\Debug\WPF_BS.pdb

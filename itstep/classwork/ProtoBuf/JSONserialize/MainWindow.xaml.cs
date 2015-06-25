@@ -60,7 +60,7 @@ namespace JSONserialize
                     Serializer.Serialize(file, user);
                     file.Position = 0;
                     var restoredTasks = Serializer.Deserialize<User>(file);
-
+                
 
                 stopwatch.Stop();
 

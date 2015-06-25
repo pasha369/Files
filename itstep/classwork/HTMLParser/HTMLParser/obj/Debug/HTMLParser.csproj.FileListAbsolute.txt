@@ -14,3 +14,19 @@ c:\users\pasha\documents\visual studio 2012\Projects\HTMLParser\HTMLParser\obj\D
 c:\users\pasha\documents\visual studio 2012\Projects\HTMLParser\HTMLParser\obj\Debug\HTMLParser.csproj.GenerateResource.Cache
 c:\users\pasha\documents\visual studio 2012\Projects\HTMLParser\HTMLParser\obj\Debug\HTMLParser.exe
 c:\users\pasha\documents\visual studio 2012\Projects\HTMLParser\HTMLParser\obj\Debug\HTMLParser.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\bin\Debug\HTMLParser.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\obj\Debug\HTMLParser.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\obj\Debug\HTMLParser.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\bin\Debug\HTMLParser.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\bin\Debug\HTMLParser.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\obj\Debug\HTMLParser.csprojResolveAssemblyReference.cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\obj\Debug\MainWindow.baml
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\obj\Debug\MainWindow.g.cs
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\obj\Debug\App.g.cs
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\obj\Debug\HTMLParser_MarkupCompile.cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\obj\Debug\HTMLParser.g.resources
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\obj\Debug\HTMLParser.Properties.Resources.resources
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\HTMLParser\HTMLParser\obj\Debug\HTMLParser.csproj.GenerateResource.Cache

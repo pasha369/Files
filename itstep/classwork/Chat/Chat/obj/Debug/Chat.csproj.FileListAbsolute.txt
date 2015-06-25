@@ -37,3 +37,6 @@ C:\Users\user\Documents\files\itstep\classwork\Chat\Chat\obj\Debug\Chat_MarkupCo
 C:\Users\user\Documents\files\itstep\classwork\Chat\Chat\obj\Debug\Chat.g.resources
 C:\Users\user\Documents\files\itstep\classwork\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
 C:\Users\user\Documents\files\itstep\classwork\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\Chat\Chat\obj\Debug\Chat.pdb

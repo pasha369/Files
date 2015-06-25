@@ -13,3 +13,18 @@ c:\users\user.step\documents\visual studio 2012\Projects\API_VKapp\API_VKapp\obj
 c:\users\user.step\documents\visual studio 2012\Projects\API_VKapp\API_VKapp\obj\Debug\API_VKapp.pdb
 c:\users\user.step\documents\visual studio 2012\Projects\API_VKapp\API_VKapp\bin\Debug\Newtonsoft.Json.dll
 c:\users\user.step\documents\visual studio 2012\Projects\API_VKapp\API_VKapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\bin\Debug\API_VKapp.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\obj\Debug\API_VKapp.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\obj\Debug\API_VKapp.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\bin\Debug\API_VKapp.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\bin\Debug\API_VKapp.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\obj\Debug\API_VKapp.csprojResolveAssemblyReference.cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\obj\Debug\MainWindow.baml
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\obj\Debug\MainWindow.g.cs
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\obj\Debug\App.g.cs
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\obj\Debug\API_VKapp_MarkupCompile.cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\obj\Debug\API_VKapp.g.resources
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\obj\Debug\API_VKapp.Properties.Resources.resources
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\API_VKapp\API_VKapp\obj\Debug\API_VKapp.csproj.GenerateResource.Cache

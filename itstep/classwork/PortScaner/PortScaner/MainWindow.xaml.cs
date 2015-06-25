@@ -33,8 +33,8 @@ namespace PortScaner
         {
             
             int start = 1000;
-            int end = 65000;
-            /*
+            int end = 25000;
+            
             IPGlobalProperties properties = IPGlobalProperties.GetIPGlobalProperties();
             IPEndPoint[] tcpEndPoints = properties.GetActiveTcpListeners();
 
@@ -45,8 +45,8 @@ namespace PortScaner
                 {
                     txtFreePorts.AppendText(i.ToString() + '\n');
                 }
-            }*/
-
+            }
+            /*
             for (int i = 0; i < end; i++)
             {
             Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
@@ -60,7 +60,7 @@ namespace PortScaner
                     Debug.WriteLine(exception.Message);
                 }
             }
-
+            */
         }
     }
 }

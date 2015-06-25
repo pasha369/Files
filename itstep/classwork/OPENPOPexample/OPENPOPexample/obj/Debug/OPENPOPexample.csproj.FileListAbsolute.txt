@@ -12,3 +12,17 @@ c:\users\pasha\documents\visual studio 2012\Projects\OPENPOPexample\OPENPOPexamp
 c:\users\pasha\documents\visual studio 2012\Projects\OPENPOPexample\OPENPOPexample\bin\Debug\OpenPop.dll
 c:\users\pasha\documents\visual studio 2012\Projects\OPENPOPexample\OPENPOPexample\obj\Debug\OPENPOPexample.exe
 c:\users\pasha\documents\visual studio 2012\Projects\OPENPOPexample\OPENPOPexample\obj\Debug\OPENPOPexample.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\bin\Debug\OPENPOPexample.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\obj\Debug\OPENPOPexample.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\obj\Debug\OPENPOPexample.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\bin\Debug\OPENPOPexample.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\bin\Debug\OPENPOPexample.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\bin\Debug\OpenPop.dll
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\obj\Debug\OPENPOPexample.csprojResolveAssemblyReference.cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\obj\Debug\MainWindow.baml
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\obj\Debug\MainWindow.g.cs
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\obj\Debug\App.g.cs
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\obj\Debug\OPENPOPexample_MarkupCompile.cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\obj\Debug\OPENPOPexample.g.resources
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\obj\Debug\OPENPOPexample.Properties.Resources.resources
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\OPENPOPexample\OPENPOPexample\obj\Debug\OPENPOPexample.csproj.GenerateResource.Cache

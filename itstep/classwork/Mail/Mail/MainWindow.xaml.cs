@@ -31,7 +31,7 @@ namespace Mail
         {
             try
             {
-                var msg = new MailMessage("zhmakp@gmail.com", "zhmakp@gmail.com", null, txtMsg.Text);
+                var msg = new MailMessage("zhmakp@gmail.com", "denis.datsiuk@gmail.com", null, txtMsg.Text);
                 var smtpClient = new SmtpClient("smtp.gmail.com", 587);
                 smtpClient.Credentials = new NetworkCredential("zhmakp@gmail.com", "15pashuk");
                 smtpClient.EnableSsl = true;

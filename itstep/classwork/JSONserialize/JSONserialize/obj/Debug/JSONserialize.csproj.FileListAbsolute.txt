@@ -16,3 +16,15 @@ c:\users\user\documents\visual studio 2012\Projects\JSONserialize\JSONserialize\
 C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\bin\Debug\JSONserialize.exe.config
 C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\obj\Debug\JSONserialize.exe
 C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\obj\Debug\JSONserialize.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\bin\Debug\JSONserialize.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\bin\Debug\JSONserialize.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\obj\Debug\JSONserialize.csprojResolveAssemblyReference.cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\obj\Debug\MainWindow.baml
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\obj\Debug\MainWindow.g.cs
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\obj\Debug\App.g.cs
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\obj\Debug\JSONserialize_MarkupCompile.cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\obj\Debug\JSONserialize.g.resources
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\obj\Debug\JSONserialize.Properties.Resources.resources
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\JSONserialize\JSONserialize\obj\Debug\JSONserialize.csproj.GenerateResource.Cache

@@ -11,3 +11,16 @@ c:\users\pasha\documents\visual studio 2012\Projects\PortScaner\PortScaner\obj\D
 c:\users\pasha\documents\visual studio 2012\Projects\PortScaner\PortScaner\obj\Debug\PortScaner.csproj.GenerateResource.Cache
 c:\users\pasha\documents\visual studio 2012\Projects\PortScaner\PortScaner\obj\Debug\PortScaner.exe
 c:\users\pasha\documents\visual studio 2012\Projects\PortScaner\PortScaner\obj\Debug\PortScaner.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\bin\Debug\PortScaner.exe.config
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\obj\Debug\PortScaner.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\obj\Debug\PortScaner.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\bin\Debug\PortScaner.exe
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\bin\Debug\PortScaner.pdb
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\obj\Debug\PortScaner.csprojResolveAssemblyReference.cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\obj\Debug\MainWindow.baml
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\obj\Debug\MainWindow.g.cs
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\obj\Debug\App.g.cs
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\obj\Debug\PortScaner_MarkupCompile.cache
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\obj\Debug\PortScaner.g.resources
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\obj\Debug\PortScaner.Properties.Resources.resources
+C:\Users\pasha\Documents\git_folder\folder\itstep\classwork\PortScaner\PortScaner\obj\Debug\PortScaner.csproj.GenerateResource.Cache
