@@ -1,0 +1,7 @@
+c:\users\pasha\documents\visual studio 2012\Projects\Adapter_ToString\Adapter_ToString\bin\Debug\Adapter_ToString.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\Adapter_ToString\Adapter_ToString\bin\Debug\Adapter_ToString.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Adapter_ToString\Adapter_ToString\bin\Debug\Adapter_ToString.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Adapter_ToString\Adapter_ToString\obj\Debug\Adapter_ToString.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\Adapter_ToString\Adapter_ToString\obj\Debug\Adapter_ToString.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Adapter_ToString\Adapter_ToString\obj\Debug\Adapter_ToString.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Adapter_ToString\Adapter_ToString\bin\Debug\LCD.dll

@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="5384B463-01B0-4912-BBD6-B7FD095A689B" ModuleId="Adapter_ToString" />
+  <Module PersistentId="3CAD3318-7D05-4430-85B3-3F4868D3622D" ModuleId="ReceiverByte" />
+  <Module PersistentId="D044B2D6-C36A-4E59-8A71-04AE10B6056C" ModuleId="LCD" />
+</Modules>

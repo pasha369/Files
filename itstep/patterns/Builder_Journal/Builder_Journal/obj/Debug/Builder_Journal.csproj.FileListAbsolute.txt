@@ -1,0 +1,6 @@
+c:\users\pasha\documents\visual studio 2012\Projects\Builder_Journal\Builder_Journal\bin\Debug\Builder_Journal.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\Builder_Journal\Builder_Journal\obj\Debug\Builder_Journal.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\Builder_Journal\Builder_Journal\bin\Debug\Builder_Journal.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Builder_Journal\Builder_Journal\bin\Debug\Builder_Journal.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Builder_Journal\Builder_Journal\obj\Debug\Builder_Journal.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Builder_Journal\Builder_Journal\obj\Debug\Builder_Journal.pdb

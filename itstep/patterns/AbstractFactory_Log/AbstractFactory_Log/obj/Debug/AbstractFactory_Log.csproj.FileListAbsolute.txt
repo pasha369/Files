@@ -1,0 +1,10 @@
+c:\users\pasha\documents\visual studio 2012\Projects\AbstractFactory_Log\AbstractFactory_Log\bin\Debug\AbstractFactory_Log.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\AbstractFactory_Log\AbstractFactory_Log\bin\Debug\AbstractFactory_Log.exe
+c:\users\pasha\documents\visual studio 2012\Projects\AbstractFactory_Log\AbstractFactory_Log\bin\Debug\AbstractFactory_Log.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\AbstractFactory_Log\AbstractFactory_Log\obj\Debug\AbstractFactory_Log.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\AbstractFactory_Log\AbstractFactory_Log\obj\Debug\AbstractFactory_Log.exe
+c:\users\pasha\documents\visual studio 2012\Projects\AbstractFactory_Log\AbstractFactory_Log\obj\Debug\AbstractFactory_Log.pdb
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\AbstractFactory_Log\AbstractFactory_Log\bin\Debug\EntityFramework.dll
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\AbstractFactory_Log\AbstractFactory_Log\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\AbstractFactory_Log\AbstractFactory_Log\bin\Debug\EntityFramework.xml
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\AbstractFactory_Log\AbstractFactory_Log\bin\Debug\EntityFramework.SqlServer.xml

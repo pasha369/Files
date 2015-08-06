@@ -1,0 +1,6 @@
+c:\users\pasha\documents\visual studio 2012\Projects\Command_TextEditor\Command_TextEditor\bin\Debug\Command_TextEditor.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\Command_TextEditor\Command_TextEditor\bin\Debug\Command_TextEditor.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Command_TextEditor\Command_TextEditor\bin\Debug\Command_TextEditor.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Command_TextEditor\Command_TextEditor\obj\Debug\Command_TextEditor.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Command_TextEditor\Command_TextEditor\obj\Debug\Command_TextEditor.pdb
+C:\Users\pasha\documents\visual studio 2012\Projects\Command_TextEditor\Command_TextEditor\obj\Debug\Command_TextEditor.csprojResolveAssemblyReference.cache

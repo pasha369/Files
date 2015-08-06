@@ -1,0 +1,9 @@
+c:\users\pasha\documents\visual studio 2012\Projects\Composite_Control\Composite_Control\bin\Debug\Composite_Control.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\Composite_Control\Composite_Control\bin\Debug\Composite_Control.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Composite_Control\Composite_Control\bin\Debug\Composite_Control.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Composite_Control\Composite_Control\obj\Debug\Composite_Control.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\Composite_Control\Composite_Control\obj\Debug\Composite_Control.Form1.resources
+c:\users\pasha\documents\visual studio 2012\Projects\Composite_Control\Composite_Control\obj\Debug\Composite_Control.Properties.Resources.resources
+c:\users\pasha\documents\visual studio 2012\Projects\Composite_Control\Composite_Control\obj\Debug\Composite_Control.csproj.GenerateResource.Cache
+c:\users\pasha\documents\visual studio 2012\Projects\Composite_Control\Composite_Control\obj\Debug\Composite_Control.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Composite_Control\Composite_Control\obj\Debug\Composite_Control.pdb

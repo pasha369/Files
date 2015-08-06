@@ -1,0 +1,4 @@
+c:\users\pasha\documents\visual studio 2012\Projects\Adapter_ToString\LCD\bin\Debug\LCD.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Adapter_ToString\LCD\bin\Debug\LCD.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Adapter_ToString\LCD\obj\Debug\LCD.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Adapter_ToString\LCD\obj\Debug\LCD.pdb

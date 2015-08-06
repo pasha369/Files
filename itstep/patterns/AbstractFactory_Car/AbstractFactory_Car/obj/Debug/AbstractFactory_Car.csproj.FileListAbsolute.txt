@@ -1,0 +1,6 @@
+c:\users\pasha\documents\visual studio 2012\Projects\AbstractFactory_Car\AbstractFactory_Car\bin\Debug\AbstractFactory_Car.exe.config
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\AbstractFactory_Car\AbstractFactory_Car\obj\Debug\AbstractFactory_Car.csprojResolveAssemblyReference.cache
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\AbstractFactory_Car\AbstractFactory_Car\bin\Debug\AbstractFactory_Car.exe
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\AbstractFactory_Car\AbstractFactory_Car\bin\Debug\AbstractFactory_Car.pdb
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\AbstractFactory_Car\AbstractFactory_Car\obj\Debug\AbstractFactory_Car.exe
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\AbstractFactory_Car\AbstractFactory_Car\obj\Debug\AbstractFactory_Car.pdb

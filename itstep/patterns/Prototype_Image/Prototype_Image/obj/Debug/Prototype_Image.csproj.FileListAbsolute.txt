@@ -1,0 +1,9 @@
+c:\users\pasha\documents\visual studio 2012\Projects\Prototype_Image\Prototype_Image\bin\Debug\Prototype_Image.exe.config
+c:\users\pasha\documents\visual studio 2012\Projects\Prototype_Image\Prototype_Image\bin\Debug\Prototype_Image.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Prototype_Image\Prototype_Image\bin\Debug\Prototype_Image.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Prototype_Image\Prototype_Image\obj\Debug\Prototype_Image.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\Prototype_Image\Prototype_Image\obj\Debug\Prototype_Image.Properties.Resources.resources
+c:\users\pasha\documents\visual studio 2012\Projects\Prototype_Image\Prototype_Image\obj\Debug\Prototype_Image.csproj.GenerateResource.Cache
+c:\users\pasha\documents\visual studio 2012\Projects\Prototype_Image\Prototype_Image\obj\Debug\Prototype_Image.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Prototype_Image\Prototype_Image\obj\Debug\Prototype_Image.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Prototype_Image\Prototype_Image\obj\Debug\Prototype_Image.Form1.resources
