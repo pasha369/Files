@@ -1,0 +1,7 @@
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Shim\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.xml
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Shim\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Shim\obj\Debug\Fakes\s\b\System.4.0.0.0.Fakes.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Shim\obj\Debug\Fakes\s\b\Microsoft.QualityTools.Testing.Fakes.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Shim\obj\Debug\Fakes\s\o\f.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Shim\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Shim\obj\Debug\Fakes\s\o\System.4.0.0.0.Fakes.pdb

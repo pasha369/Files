@@ -1,0 +1,9 @@
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Stub\obj\Debug\Fakes\tl\b\Testing.Logger.Fakes.xml
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Stub\obj\Debug\Fakes\tl\b\Testing.Logger.Fakes.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Stub\obj\Debug\Fakes\tl\b\Testing.Logger.Fakes.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Stub\obj\Debug\Fakes\tl\b\Microsoft.QualityTools.Testing.Fakes.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Stub\obj\Debug\Fakes\tl\b\Testing.Logger.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Stub\obj\Debug\Fakes\tl\b\Testing.Logger.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Stub\obj\Debug\Fakes\tl\o\f.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Stub\obj\Debug\Fakes\tl\o\Testing.Logger.Fakes.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Testing.Logger\Testing.Stub\obj\Debug\Fakes\tl\o\Testing.Logger.Fakes.pdb

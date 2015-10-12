@@ -1,0 +1,10 @@
+c:\users\pasha\documents\visual studio 2012\Projects\Selenium.Auth\Selenium.Auth\obj\Debug\Selenium.Auth.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\Selenium.Auth\Selenium.Auth\bin\Debug\chromedriver.exe
+c:\users\pasha\documents\visual studio 2012\Projects\Selenium.Auth\Selenium.Auth\bin\Debug\Selenium.Auth.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Selenium.Auth\Selenium.Auth\bin\Debug\Selenium.Auth.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\Selenium.Auth\Selenium.Auth\bin\Debug\WebDriver.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Selenium.Auth\Selenium.Auth\bin\Debug\WebDriver.Support.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Selenium.Auth\Selenium.Auth\bin\Debug\WebDriver.xml
+c:\users\pasha\documents\visual studio 2012\Projects\Selenium.Auth\Selenium.Auth\bin\Debug\WebDriver.Support.xml
+c:\users\pasha\documents\visual studio 2012\Projects\Selenium.Auth\Selenium.Auth\obj\Debug\Selenium.Auth.dll
+c:\users\pasha\documents\visual studio 2012\Projects\Selenium.Auth\Selenium.Auth\obj\Debug\Selenium.Auth.pdb

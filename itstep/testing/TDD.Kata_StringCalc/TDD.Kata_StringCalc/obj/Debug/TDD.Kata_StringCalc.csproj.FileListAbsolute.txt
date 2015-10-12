@@ -1,0 +1,14 @@
+c:\users\pasha\documents\visual studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\bin\Debug\TDD.Kata_StringCalc.exe.config
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\obj\Debug\TDD.Kata_StringCalc.csprojResolveAssemblyReference.cache
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\bin\Debug\TDD.Kata_StringCalc.exe
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\bin\Debug\TDD.Kata_StringCalc.pdb
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\bin\Debug\FluentAssertions.Core.dll
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\bin\Debug\FluentAssertions.dll
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\bin\Debug\nunit.framework.dll
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\bin\Debug\FluentAssertions.pdb
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\bin\Debug\FluentAssertions.xml
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\bin\Debug\FluentAssertions.Core.xml
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\bin\Debug\nunit.framework.xml
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\obj\Debug\TDD.Kata_StringCalc.exe
+C:\Users\pasha\Documents\Visual Studio 2012\Projects\TDD.Kata_StringCalc\TDD.Kata_StringCalc\obj\Debug\TDD.Kata_StringCalc.pdb

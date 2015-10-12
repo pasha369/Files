@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Testing.Logger.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Testing.Logger.Fakes.ShimLogSaver">
+            <summary>Shim type of Testing.Logger.LogSaver</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.ShimLogSaver.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.ShimLogSaver.#ctor(Testing.Logger.LogSaver)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.ShimLogSaver.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.ShimLogSaver.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.ShimLogSaver.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.ShimLogSaver.Constructor">
+            <summary>Sets the shim of LogSaver.LogSaver()</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.ShimLogSaver.WriteLogILoggerString">
+            <summary>Sets the shim of LogSaver.WriteLog(ILogger logger, String path)</summary>
+        </member>
+        <member name="T:Testing.Logger.Fakes.ShimLogSaver.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.ShimLogSaver.AllInstances.WriteLogILoggerString">
+            <summary>Sets the shim of LogSaver.WriteLog(ILogger logger, String path)</summary>
+        </member>
+        <member name="T:Testing.Logger.Fakes.ShimTextLogger">
+            <summary>Shim type of Testing.Logger.TextLogger</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.ShimTextLogger.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.ShimTextLogger.#ctor(Testing.Logger.TextLogger)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.ShimTextLogger.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.ShimTextLogger.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.ShimTextLogger.Bind(Testing.Logger.ILogger)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.ShimTextLogger.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.ShimTextLogger.Constructor">
+            <summary>Sets the shim of TextLogger.TextLogger()</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.ShimTextLogger.GetCurrentTime">
+            <summary>Sets the shim of TextLogger.GetCurrentTime()</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.ShimTextLogger.SaveString">
+            <summary>Sets the shim of TextLogger.Save(String path)</summary>
+        </member>
+        <member name="T:Testing.Logger.Fakes.ShimTextLogger.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.ShimTextLogger.AllInstances.GetCurrentTime">
+            <summary>Sets the shim of TextLogger.GetCurrentTime()</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.ShimTextLogger.AllInstances.SaveString">
+            <summary>Sets the shim of TextLogger.Save(String path)</summary>
+        </member>
+        <member name="T:Testing.Logger.Fakes.StubILogger">
+            <summary>Stub type of Testing.Logger.ILogger</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.StubILogger.#ctor">
+            <summary>Initializes a new instance of type StubILogger</summary>
+        </member>
+        <member name="F:Testing.Logger.Fakes.StubILogger.SaveString">
+            <summary>Sets the stub of ILogger.Save(String path)</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.StubILogger.tl::Testing#Logger#ILogger#Save(System.String)">
+            <summary>Sets the stub of ILogger.Save(String path)</summary>
+        </member>
+        <member name="T:Testing.Logger.Fakes.StubLogSaver">
+            <summary>Stub type of Testing.Logger.LogSaver</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.StubLogSaver.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.StubLogSaver.InitializeStub">
+            <summary>Initializes a new instance of type StubLogSaver</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.StubLogSaver.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.StubLogSaver.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.StubLogSaver.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Testing.Logger.Fakes.StubTextLogger">
+            <summary>Stub type of Testing.Logger.TextLogger</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.StubTextLogger.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Testing.Logger.Fakes.StubTextLogger.InitializeStub">
+            <summary>Initializes a new instance of type StubTextLogger</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.StubTextLogger.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.StubTextLogger.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Testing.Logger.Fakes.StubTextLogger.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

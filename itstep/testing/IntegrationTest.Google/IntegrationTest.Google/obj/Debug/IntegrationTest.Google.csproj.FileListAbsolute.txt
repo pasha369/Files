@@ -1,0 +1,17 @@
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\IntegrationTest.Google.dll
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\IntegrationTest.Google.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\FluentAssertions.Core.dll
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\FluentAssertions.dll
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\nunit.framework.dll
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\WebDriver.dll
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\FluentAssertions.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\FluentAssertions.xml
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\FluentAssertions.Core.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\FluentAssertions.Core.xml
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\nunit.framework.xml
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\WebDriver.xml
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\obj\Debug\IntegrationTest.Google.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\obj\Debug\IntegrationTest.Google.dll
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\obj\Debug\IntegrationTest.Google.pdb
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\WebDriver.Support.dll
+c:\users\pasha\documents\visual studio 2012\Projects\IntegrationTest.Google\IntegrationTest.Google\bin\Debug\WebDriver.Support.xml
